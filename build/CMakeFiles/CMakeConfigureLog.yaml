@@ -116,21 +116,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -262,21 +248,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -406,21 +378,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -496,21 +454,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -538,7 +482,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is GNU, found in:
-        /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/4.2.3/CompilerIdC/a.out
+        /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/4.2.3/CompilerIdC/a.out
       
   -
     kind: "find-v1"
@@ -652,21 +596,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -786,21 +716,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -920,21 +836,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1054,21 +956,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1188,21 +1076,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1322,21 +1196,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1456,21 +1316,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1590,21 +1436,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1773,21 +1605,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -1907,21 +1725,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2090,21 +1894,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2276,21 +2066,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2462,21 +2238,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2558,21 +2320,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2648,21 +2396,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -2690,7 +2424,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is GNU, found in:
-        /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/4.2.3/CompilerIdCXX/a.out
+        /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/4.2.3/CompilerIdCXX/a.out
       
   -
     kind: "find-v1"
@@ -2856,21 +2590,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -3042,21 +2762,7 @@ events:
         - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/ProgramData/chocolatey/bin"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
-        - "/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common"
-        - "/mnt/c/WINDOWS/system32"
-        - "/mnt/c/WINDOWS"
-        - "/mnt/c/WINDOWS/System32/Wbem"
-        - "/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "/mnt/c/WINDOWS/System32/OpenSSH/"
-        - "/mnt/c/Program Files/dotnet/"
-        - "/mnt/c/Program Files/Git/cmd"
-        - "/mnt/c/Program Files/Apache/Maven/apache-maven-3.9.12/bin"
-        - "/mnt/c/Program Files (x86)/IncrediBuild"
-        - "/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Local/Microsoft/WindowsApps"
-        - "/mnt/c/Program Files/Eclipse Adoptium/jdk-21.0.11.10-hotspot/bin"
         - "/mnt/c/Users/ja/AppData/Roaming/npm"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/PrivateAssemblies/runtimes/win-x64/native"
         - "/mnt/c/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin"
@@ -3073,8 +2779,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU"
-      binary: "/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU"
+      source: "/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8"
+      binary: "/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_EXE_LINKER_FLAGS: ""
@@ -3082,13 +2788,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU'
+        Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_fc1ed/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_fc1ed.dir/build.make CMakeFiles/cmTC_fc1ed.dir/build
-        gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU'
-        Building C object CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -v -o CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ef66d/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_ef66d.dir/build.make CMakeFiles/cmTC_ef66d.dir/build
+        gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8'
+        Building C object CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -v -o CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -3098,8 +2804,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fc1ed.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccPri6kC.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_ef66d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccDEQjJz.s
         GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -3116,14 +2822,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: edd70396dcc669433a92073f97309866
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o /tmp/ccPri6kC.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o /tmp/ccDEQjJz.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.'
-        Linking C executable cmTC_fc1ed
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc1ed.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_ef66d
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ef66d.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/cc
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -3136,14 +2842,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fc1ed' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_fc1ed.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cce4FjLs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_fc1ed /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef66d' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ef66d.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cclNX3C2.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ef66d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cce4FjLs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_fc1ed /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cclNX3C2.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ef66d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fc1ed' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_fc1ed.'
-        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -o cmTC_fc1ed
-        gmake[1]: Leaving directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef66d' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ef66d.'
+        /usr/bin/cc  -v -Wl,-v CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -o cmTC_ef66d
+        gmake[1]: Leaving directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8'
         
       exitCode: 0
   -
@@ -3178,13 +2884,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU']
+        ignore line: [Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_fc1ed/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_fc1ed.dir/build.make CMakeFiles/cmTC_fc1ed.dir/build]
-        ignore line: [gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-S1RVxU']
-        ignore line: [Building C object CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ef66d/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_ef66d.dir/build.make CMakeFiles/cmTC_ef66d.dir/build]
+        ignore line: [gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-ZMHxq8']
+        ignore line: [Building C object CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -3194,8 +2900,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fc1ed.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccPri6kC.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_ef66d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccDEQjJz.s]
         ignore line: [GNU C23 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -3212,14 +2918,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: edd70396dcc669433a92073f97309866]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o /tmp/ccPri6kC.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o /tmp/ccDEQjJz.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_fc1ed]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc1ed.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_ef66d]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ef66d.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/cc]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -3232,13 +2938,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fc1ed' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_fc1ed.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cce4FjLs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_fc1ed /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ef66d' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ef66d.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cclNX3C2.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ef66d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/cce4FjLs.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cclNX3C2.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -3256,7 +2962,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_fc1ed] ==> ignore
+          arg [cmTC_ef66d] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -3271,7 +2977,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lgcc] ==> lib [gcc]
           arg [--push-state] ==> ignore
           arg [--as-needed] ==> ignore
@@ -3286,7 +2992,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cce4FjLs.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_fc1ed /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_fc1ed.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cclNX3C2.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ef66d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_ef66d.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'C': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
@@ -3326,8 +3032,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f"
-      binary: "/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f"
+      source: "/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY"
+      binary: "/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
@@ -3336,13 +3042,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f'
+        Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c1a5d/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_c1a5d.dir/build.make CMakeFiles/cmTC_c1a5d.dir/build
-        gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f'
-        Building CXX object CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3a31b/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_3a31b.dir/build.make CMakeFiles/cmTC_3a31b.dir/build
+        gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY'
+        Building CXX object CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa
@@ -3352,8 +3058,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c1a5d.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccI1ocLj.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3a31b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cckxe68H.s
         GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -3374,14 +3080,14 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: b661a74662ad7cf413c4193391ab5290
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/'
-         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccI1ocLj.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/'
+         /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o /tmp/cckxe68H.s
         GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_c1a5d
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1a5d.dir/link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_3a31b
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3a31b.dir/link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper
@@ -3394,14 +3100,14 @@ events:
         gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c1a5d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c1a5d.'
-         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSETpjD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c1a5d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3a31b' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3a31b.'
+         /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5UH2JE.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_3a31b /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         collect2 version 15.2.0
-        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSETpjD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c1a5d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
+        /usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5UH2JE.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_3a31b /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o
         GNU ld (GNU Binutils for Ubuntu) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c1a5d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c1a5d.'
-        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_c1a5d
-        gmake[1]: Leaving directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3a31b' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3a31b.'
+        /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_3a31b
+        gmake[1]: Leaving directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY'
         
       exitCode: 0
   -
@@ -3442,13 +3148,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f']
+        ignore line: [Change Dir: '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c1a5d/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_c1a5d.dir/build.make CMakeFiles/cmTC_c1a5d.dir/build]
-        ignore line: [gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles/CMakeScratch/TryCompile-xJuv8f']
-        ignore line: [Building CXX object CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3a31b/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_3a31b.dir/build.make CMakeFiles/cmTC_3a31b.dir/build]
+        ignore line: [gmake[1]: Entering directory '/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/CMakeScratch/TryCompile-PpHXWY']
+        ignore line: [Building CXX object CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:amdgcn-amdhsa]
@@ -3458,8 +3164,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/']
-        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_c1a5d.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/ccI1ocLj.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/']
+        ignore line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3a31b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -fzero-init-padding-bits=all -Wbidi-chars=any -o /tmp/cckxe68H.s]
         ignore line: [GNU C++17 (Ubuntu 15.2.0-16ubuntu1) version 15.2.0 (x86_64-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -3480,14 +3186,14 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b661a74662ad7cf413c4193391ab5290]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/']
-        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccI1ocLj.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/']
+        ignore line: [ /usr/bin/x86_64-linux-gnu-as -v --64 -o CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o /tmp/cckxe68H.s]
         ignore line: [GNU assembler version 2.46 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.46]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_c1a5d]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c1a5d.dir/link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_3a31b]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3a31b.dir/link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper]
@@ -3500,13 +3206,13 @@ events:
         ignore line: [gcc version 15.2.0 (Ubuntu 15.2.0-16ubuntu1) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/15/:/usr/libexec/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/15/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/15/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c1a5d' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_c1a5d.']
-        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSETpjD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c1a5d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3a31b' '-foffload-options=-l_GCC_stdc++' '-foffload-options=-l_GCC_m' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_3a31b.']
+        link line: [ /usr/libexec/gcc/x86_64-linux-gnu/15/collect2 -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5UH2JE.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_3a31b /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccSETpjD.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/cc5UH2JE.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -3524,7 +3230,7 @@ events:
           arg [-znow] ==> ignore
           arg [-zrelro] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_c1a5d] ==> ignore
+          arg [cmTC_3a31b] ==> ignore
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o]
@@ -3539,7 +3245,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -3550,7 +3256,7 @@ events:
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o]
           arg [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSETpjD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_c1a5d /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_c1a5d.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/libexec/gcc/x86_64-linux-gnu/15/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-linux-gnu/15/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5UH2JE.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_3a31b /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/15 -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/15/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/15/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_3a31b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/15/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crtn.o]
         linker tool for 'CXX': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]

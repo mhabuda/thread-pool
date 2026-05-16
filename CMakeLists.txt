@@ -3,10 +3,10 @@
 #
 cmake_minimum_required (VERSION 3.10)
 # Add source to this project's executable.
-add_executable (CMakeProject1 "ThreadPool.cpp" "ThreadPool.h" "TaskQueue.cpp" "TaskQueue.h" "WorkerPool.h" "WorkerPool.cpp" "Worker.h" "Worker.cpp")
+add_executable (Thread-pool "ThreadPool.cpp" "ThreadPool.h"  "TaskQueue.h" "WorkerPool.h" "WorkerPool.cpp" "Worker.h" "Worker.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
-  set_property(TARGET CMakeProject1 PROPERTY CXX_STANDARD 20)
+  set_property(TARGET Thread-pool PROPERTY CXX_STANDARD 20)
 endif()
 
 # TODO: Add tests and install targets if needed.

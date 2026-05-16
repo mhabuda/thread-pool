@@ -1,7 +1,7 @@
-CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.o: \
- /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/WorkerPool.cpp \
+CMakeFiles/Thread-pool.dir/WorkerPool.cpp.o: \
+ /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/WorkerPool.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/WorkerPool.h \
+ /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/WorkerPool.h \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -220,5 +220,11 @@ CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.o: \
  /usr/include/c++/15/bits/this_thread_sleep.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/semaphore.h \
  /usr/include/x86_64-linux-gnu/bits/semaphore.h \
- /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/Worker.h \
- /usr/include/c++/15/thread
+ /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/Worker.h \
+ /usr/include/c++/15/thread /usr/include/c++/15/queue \
+ /usr/include/c++/15/deque /usr/include/c++/15/bits/stl_deque.h \
+ /usr/include/c++/15/bits/deque.tcc /usr/include/c++/15/bits/stl_heap.h \
+ /usr/include/c++/15/bits/stl_queue.h /usr/include/c++/15/mutex \
+ /usr/include/c++/15/iostream /usr/include/c++/15/ostream \
+ /usr/include/c++/15/bits/ostream.tcc /usr/include/c++/15/istream \
+ /usr/include/c++/15/bits/istream.tcc

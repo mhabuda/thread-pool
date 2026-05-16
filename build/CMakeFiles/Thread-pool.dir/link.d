@@ -1,11 +1,10 @@
-CMakeProject1: \
+Thread-pool: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/Scrt1.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
-  CMakeFiles/CMakeProject1.dir/ThreadPool.cpp.o \
-  CMakeFiles/CMakeProject1.dir/TaskQueue.cpp.o \
-  CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.o \
-  CMakeFiles/CMakeProject1.dir/Worker.cpp.o \
+  CMakeFiles/Thread-pool.dir/ThreadPool.cpp.o \
+  CMakeFiles/Thread-pool.dir/WorkerPool.cpp.o \
+  CMakeFiles/Thread-pool.dir/Worker.cpp.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libm.so \
@@ -41,13 +40,11 @@ CMakeProject1: \
 
 /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o:
 
-CMakeFiles/CMakeProject1.dir/ThreadPool.cpp.o:
+CMakeFiles/Thread-pool.dir/ThreadPool.cpp.o:
 
-CMakeFiles/CMakeProject1.dir/TaskQueue.cpp.o:
+CMakeFiles/Thread-pool.dir/WorkerPool.cpp.o:
 
-CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.o:
-
-CMakeFiles/CMakeProject1.dir/Worker.cpp.o:
+CMakeFiles/Thread-pool.dir/Worker.cpp.o:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libstdc++.so:
 

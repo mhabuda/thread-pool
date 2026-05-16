@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1
+CMAKE_SOURCE_DIR = /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build
+CMAKE_BINARY_DIR = /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ja/source/repos/CMakeProject1/CMakeProject1/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,48 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named CMakeProject1
+# Target rules for targets named Thread-pool
 
 # Build rule for target.
-CMakeProject1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeProject1
-.PHONY : CMakeProject1
+Thread-pool: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Thread-pool
+.PHONY : Thread-pool
 
 # fast build rule for target.
-CMakeProject1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/build
-.PHONY : CMakeProject1/fast
-
-TaskQueue.o: TaskQueue.cpp.o
-.PHONY : TaskQueue.o
-
-# target to build an object file
-TaskQueue.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/TaskQueue.cpp.o
-.PHONY : TaskQueue.cpp.o
-
-TaskQueue.i: TaskQueue.cpp.i
-.PHONY : TaskQueue.i
-
-# target to preprocess a source file
-TaskQueue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/TaskQueue.cpp.i
-.PHONY : TaskQueue.cpp.i
-
-TaskQueue.s: TaskQueue.cpp.s
-.PHONY : TaskQueue.s
-
-# target to generate assembly for a file
-TaskQueue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/TaskQueue.cpp.s
-.PHONY : TaskQueue.cpp.s
+Thread-pool/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/build
+.PHONY : Thread-pool/fast
 
 ThreadPool.o: ThreadPool.cpp.o
 .PHONY : ThreadPool.o
 
 # target to build an object file
 ThreadPool.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/ThreadPool.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/ThreadPool.cpp.o
 .PHONY : ThreadPool.cpp.o
 
 ThreadPool.i: ThreadPool.cpp.i
@@ -166,7 +142,7 @@ ThreadPool.i: ThreadPool.cpp.i
 
 # target to preprocess a source file
 ThreadPool.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/ThreadPool.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/ThreadPool.cpp.i
 .PHONY : ThreadPool.cpp.i
 
 ThreadPool.s: ThreadPool.cpp.s
@@ -174,7 +150,7 @@ ThreadPool.s: ThreadPool.cpp.s
 
 # target to generate assembly for a file
 ThreadPool.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/ThreadPool.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/ThreadPool.cpp.s
 .PHONY : ThreadPool.cpp.s
 
 Worker.o: Worker.cpp.o
@@ -182,7 +158,7 @@ Worker.o: Worker.cpp.o
 
 # target to build an object file
 Worker.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/Worker.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/Worker.cpp.o
 .PHONY : Worker.cpp.o
 
 Worker.i: Worker.cpp.i
@@ -190,7 +166,7 @@ Worker.i: Worker.cpp.i
 
 # target to preprocess a source file
 Worker.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/Worker.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/Worker.cpp.i
 .PHONY : Worker.cpp.i
 
 Worker.s: Worker.cpp.s
@@ -198,7 +174,7 @@ Worker.s: Worker.cpp.s
 
 # target to generate assembly for a file
 Worker.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/Worker.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/Worker.cpp.s
 .PHONY : Worker.cpp.s
 
 WorkerPool.o: WorkerPool.cpp.o
@@ -206,7 +182,7 @@ WorkerPool.o: WorkerPool.cpp.o
 
 # target to build an object file
 WorkerPool.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/WorkerPool.cpp.o
 .PHONY : WorkerPool.cpp.o
 
 WorkerPool.i: WorkerPool.cpp.i
@@ -214,7 +190,7 @@ WorkerPool.i: WorkerPool.cpp.i
 
 # target to preprocess a source file
 WorkerPool.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/WorkerPool.cpp.i
 .PHONY : WorkerPool.cpp.i
 
 WorkerPool.s: WorkerPool.cpp.s
@@ -222,7 +198,7 @@ WorkerPool.s: WorkerPool.cpp.s
 
 # target to generate assembly for a file
 WorkerPool.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeProject1.dir/build.make CMakeFiles/CMakeProject1.dir/WorkerPool.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Thread-pool.dir/build.make CMakeFiles/Thread-pool.dir/WorkerPool.cpp.s
 .PHONY : WorkerPool.cpp.s
 
 # Help Target
@@ -233,10 +209,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... CMakeProject1"
-	@echo "... TaskQueue.o"
-	@echo "... TaskQueue.i"
-	@echo "... TaskQueue.s"
+	@echo "... Thread-pool"
 	@echo "... ThreadPool.o"
 	@echo "... ThreadPool.i"
 	@echo "... ThreadPool.s"
