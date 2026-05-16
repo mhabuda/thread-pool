@@ -1,3 +1,0 @@
-/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/Thread-pool.dir
-/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/ja/source/repos/CMakeProject1/Thread-pool/build/CMakeFiles/rebuild_cache.dir

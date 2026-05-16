@@ -1,0 +1,6 @@
+build/
+x64/
+*.dat
+CMakeCache.txt
+CMakeFiles/
+*.user
